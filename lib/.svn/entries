@@ -1,0 +1,43 @@
+8
+
+dir
+29
+http://gdata-ruby-util.googlecode.com/svn/trunk/lib
+http://gdata-ruby-util.googlecode.com/svn
+
+
+
+2009-05-06T19:50:35.706522Z
+29
+jfisher@youtube.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7c3077c-c7e4-11dd-a2ab-b939405fd53f
+
+gdata
+dir
+
+gdata.rb
+file
+
+
+
+
+2009-07-13T22:48:16.000000Z
+e9be7a4f8584bfd9f3df2a68d0a54eb6
+2009-02-06T00:31:38.538485Z
+12
+jfisher@youtube.com
+

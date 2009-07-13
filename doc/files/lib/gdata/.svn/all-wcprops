@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/27/trunk/doc/files/lib/gdata
+END
+client_rb.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/doc/files/lib/gdata/client_rb.html
+END
+http_rb.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/16/trunk/doc/files/lib/gdata/http_rb.html
+END
+auth_rb.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/doc/files/lib/gdata/auth_rb.html
+END

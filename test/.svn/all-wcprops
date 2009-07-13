@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/23/trunk/test
+END
+tc_gdata_http_request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/test/tc_gdata_http_request.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/12/trunk/test/test_helper.rb
+END
+tc_gdata_auth_clientlogin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/test/tc_gdata_auth_clientlogin.rb
+END
+tc_gdata_client_youtube.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/test/tc_gdata_client_youtube.rb
+END
+tc_gdata_auth_authsub.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/test/tc_gdata_auth_authsub.rb
+END
+ts_gdata_client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/20/trunk/test/ts_gdata_client.rb
+END
+ts_gdata_http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/test/ts_gdata_http.rb
+END
+ts_gdata.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/12/trunk/test/ts_gdata.rb
+END
+tc_gdata_http_mime_body.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/test/tc_gdata_http_mime_body.rb
+END
+test_config.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/test/test_config.yml.example
+END
+tc_gdata_client_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/22/trunk/test/tc_gdata_client_calendar.rb
+END
+tc_gdata_client_base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/test/tc_gdata_client_base.rb
+END
+testimage.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/test/testimage.jpg
+END
+tc_gdata_client_photos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/trunk/test/tc_gdata_client_photos.rb
+END
+ts_gdata_auth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/test/ts_gdata_auth.rb
+END

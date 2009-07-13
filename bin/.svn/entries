@@ -1,0 +1,41 @@
+8
+
+dir
+29
+http://gdata-ruby-util.googlecode.com/svn/trunk/bin
+http://gdata-ruby-util.googlecode.com/svn
+
+
+
+2008-12-15T21:53:25.498832Z
+2
+jfisher@youtube.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7c3077c-c7e4-11dd-a2ab-b939405fd53f
+
+test_captcha.rb
+file
+
+
+
+
+2009-07-13T22:48:16.000000Z
+f2f09a22fc2044fe273e4961c3146ef0
+2008-12-15T21:53:25.498832Z
+2
+jfisher@youtube.com
+has-props
+

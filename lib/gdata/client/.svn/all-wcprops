@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/29/trunk/lib/gdata/client
+END
+contacts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/lib/gdata/client/contacts.rb
+END
+notebook.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/lib/gdata/client/notebook.rb
+END
+booksearch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12/trunk/lib/gdata/client/booksearch.rb
+END
+gbase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/lib/gdata/client/gbase.rb
+END
+blogger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/lib/gdata/client/blogger.rb
+END
+gmail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/lib/gdata/client/gmail.rb
+END
+spreadsheets.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/lib/gdata/client/spreadsheets.rb
+END
+youtube.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/trunk/lib/gdata/client/youtube.rb
+END
+doclist.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/lib/gdata/client/doclist.rb
+END
+finance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/lib/gdata/client/finance.rb
+END
+apps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/lib/gdata/client/apps.rb
+END
+health.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/lib/gdata/client/health.rb
+END
+calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/lib/gdata/client/calendar.rb
+END
+webmaster_tools.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/lib/gdata/client/webmaster_tools.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/29/trunk/lib/gdata/client/base.rb
+END
+photos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/lib/gdata/client/photos.rb
+END

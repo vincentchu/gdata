@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/26/trunk/lib/gdata/http
+END
+response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/lib/gdata/http/response.rb
+END
+default_service.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/lib/gdata/http/default_service.rb
+END
+mime_body.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/lib/gdata/http/mime_body.rb
+END
+request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/lib/gdata/http/request.rb
+END

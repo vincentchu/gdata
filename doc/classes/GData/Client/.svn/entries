@@ -1,0 +1,394 @@
+8
+
+dir
+29
+http://gdata-ruby-util.googlecode.com/svn/trunk/doc/classes/GData/Client
+http://gdata-ruby-util.googlecode.com/svn
+
+
+
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7c3077c-c7e4-11dd-a2ab-b939405fd53f
+
+GMail.src
+dir
+
+CaptchaError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+7b8db9ac7ea045fc0e7f6da2d156d264
+2009-02-06T00:31:38.538485Z
+12
+jfisher@youtube.com
+has-props
+
+Notebook.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+a5f070dc5c9de47c5da639da4fb1f48a
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+BookSearch.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+a030dc011b532e1abb54ac2754408fca
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Blogger.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+32531d60ea5bb13af808a026212b35fb
+2009-02-06T00:31:38.538485Z
+12
+jfisher@youtube.com
+has-props
+
+RequestError.src
+dir
+
+Finance.src
+dir
+
+GMail.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+6c4550561cc1256d2cab145956b86bab
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Spreadsheets.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+693d5e3a464a8a26fc2a74e6cfce7d06
+2009-02-06T00:31:38.538485Z
+12
+jfisher@youtube.com
+has-props
+
+YouTube.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+b939d42103b918b622f0d43b9b96a2e2
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Calendar.src
+dir
+
+WebmasterTools.src
+dir
+
+Base.src
+dir
+
+Finance.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+b8d46f059713cc70a8233127c065d3b1
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+BookSearch.src
+dir
+
+Notebook.src
+dir
+
+GBase.src
+dir
+
+Calendar.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+f75cab93113a32ebe1eecd67d169b041
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+AuthorizationError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+a5f8c236a69cebbcd74f4f4b53c4009e
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Photos.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+7fb5210a6a3bbbed4a42830c408b30bd
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Spreadsheets.src
+dir
+
+Contacts.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+f74a3be9877a76d97609294bd3bf4232
+2009-02-06T00:31:38.538485Z
+12
+jfisher@youtube.com
+has-props
+
+YouTube.src
+dir
+
+ServerError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+cc180eecbda022c18ebb2f8bf8e4d230
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+VersionConflictError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+7d6972eb1cc95ab166e7b5a203b362c8
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+GBase.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+1c611ac6861b3f5e49b3d1c24c4b8aef
+2009-02-06T00:31:38.538485Z
+12
+jfisher@youtube.com
+has-props
+
+DocList.src
+dir
+
+Apps.src
+dir
+
+Health.src
+dir
+
+Error.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+f21b469f671d8115b419e7e98c4ab475
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Photos.src
+dir
+
+CaptchaError.src
+dir
+
+Contacts.src
+dir
+
+DocList.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+665eae56f8c2dd87e9941c5238a2cfd3
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+RequestError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+bc201dd9754353d7dfb3b27431772d34
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Apps.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+cb7fe0ff6584fadf1f9460d514f8f12e
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Blogger.src
+dir
+
+Health.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+85e6a8763d9f93a28f50c44e674db2bf
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+UnknownError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+7a95677ca0760f07955cdd780a210179
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+BadRequestError.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+db1a601f4cf02bff11c13b5a4e88a997
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+Base.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+b3d6c5e84d2f7cf0fef9b044458d71e0
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+
+WebmasterTools.html
+file
+
+
+
+
+2009-07-13T22:48:14.000000Z
+81aea98f63307db611dd5f0891f10456
+2009-04-28T19:38:55.394177Z
+27
+jfisher@youtube.com
+has-props
+

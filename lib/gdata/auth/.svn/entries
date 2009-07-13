@@ -1,0 +1,52 @@
+8
+
+dir
+29
+http://gdata-ruby-util.googlecode.com/svn/trunk/lib/gdata/auth
+http://gdata-ruby-util.googlecode.com/svn
+
+
+
+2009-04-22T22:08:37.736852Z
+26
+jfisher@youtube.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7c3077c-c7e4-11dd-a2ab-b939405fd53f
+
+clientlogin.rb
+file
+
+
+
+
+2009-07-13T22:48:15.000000Z
+3c6ece3e2d6f5ad4def145b82a7cd50b
+2009-04-22T22:08:37.736852Z
+26
+jfisher@youtube.com
+
+authsub.rb
+file
+
+
+
+
+2009-07-13T22:48:15.000000Z
+41d38f83b488289b2bb1a24d32311edf
+2009-04-22T22:08:37.736852Z
+26
+jfisher@youtube.com
+
