@@ -2,7 +2,7 @@
  
 Gem::Specification.new do |s|
   s.name = %q{gdata}
-  s.version = "1.1.1" # Bumped version to reflect my changes
+  s.version = "1.1.11" # Bumped version to reflect my changes
  
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jeff Fisher"]
